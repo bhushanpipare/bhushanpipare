@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bhushanpipare
+- 👋 Hi, I’m bhushan.
 - 👀 I’m interested in technology startups.
-- 🌱 I’m currently learning svelte.
+- 🌱 I’m currently learning svelte.js
 
 <!---
 bhushanpipare/bhushanpipare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
